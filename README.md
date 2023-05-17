@@ -46,4 +46,9 @@
 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | 🟥 |
 | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | 🟥 |
 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | 🟥 |
+| [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | 🟥 |
+| [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | 🟥 |
+| [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | 🟥 |
+| [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | 🟥 |
+| []() | 
 | []() | 
