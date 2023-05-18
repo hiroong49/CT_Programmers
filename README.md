@@ -50,5 +50,9 @@
 | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | 🟥 |
 | [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | 🟥 |
 | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | 🟥 |
+| [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | 🟥 |
+| [문자열 정리하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | 🟥 |
+| [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | 🟥 |
+| [**소인수분해**](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | 🟥 |
 | []() | 
-| []() | 
+
