@@ -58,5 +58,9 @@
 | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | 🟥 |
 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | 🟥 |
 | [삼각형의 완성조건](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | 🟥 |
+| [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) |  🟥 |
+| [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | 🟥 |
+| [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | 🟥 |
+| [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) |  🟥 |
 | []() | 
 
