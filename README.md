@@ -61,6 +61,11 @@
 | [**가까운 수**](https://school.programmers.co.kr/learn/courses/30/lessons/120890) |  🟥 |
 | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | 🟥 |
 | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | 🟥 |
-| [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) |  🟥 |
+| [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | 🟥 |
+| [**영어가 싫어요**](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | 🟥 |
+| [**인덱스 바꾸기**](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | 🟥 |
+| [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | 🟥 |
+| [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | 🟥 |
 | []() | 
+
 
