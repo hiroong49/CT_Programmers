@@ -70,6 +70,10 @@
 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | 🟥 |
 | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | 🟥 |
 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) | 🟥 |
+| [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) | 🟥 |
+| [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | 🟥 |
+| [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) | 🟥 |
+| [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | 🟥 |
 | []() | 
 
 
