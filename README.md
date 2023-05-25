@@ -74,6 +74,11 @@
 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | 🟥 |
 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) | 🟥 |
 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | 🟥 |
+| [문자열 안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | 🟥 | 
+| [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | 🟥 |
+| [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | 🟥 |
+| [문자열 정리하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | 🟥 |
 | []() | 
+
 
 
