@@ -78,6 +78,10 @@
 | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | 🟥 |
 | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | 🟥 |
 | [문자열 정리하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | 🟥 |
+| [**7의 개수**](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | 🟥 |
+| [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) | 🟥 |
+| [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | 🟥 |
+| [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | 🟥 |
 | []() | 
 
 
