@@ -86,6 +86,10 @@
 | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | 🟥 |
 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | 🟥 |
 | [**다항식 더하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | 🟥 |
+| [**숨어있는 숫자의 덧셈 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | 🟥 |
+| [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | 🟥 |
+| [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | 🟥 |
+| [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | 🟥 |
 | []() | 
 
 
