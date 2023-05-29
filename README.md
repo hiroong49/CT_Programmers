@@ -90,6 +90,10 @@
 | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | 🟥 |
 | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | 🟥 |
 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | 🟥 |
+| [**저주의 숫자 3**](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | 🟥 |
+| [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | 🟥 |
+| [**겹치는 선분의 길이**](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | 🟥 |
+| [**유한소수 판별하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | 🟥 |
 | []() | 
 
 
