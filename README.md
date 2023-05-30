@@ -94,6 +94,10 @@
 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | 🟥 |
 | [**겹치는 선분의 길이**](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | 🟥 |
 | [**유한소수 판별하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | 🟥 |
+| [**특이한 정렬**](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | 🟥 |
+| [**등수 매기기**](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | 🟥 |
+| [**옹알이 (1)**](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | 🟥 |
+| [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | 🟥 |
 | []() | 
 
 
