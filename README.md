@@ -102,7 +102,8 @@
 | [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | 🟥 |
 | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | 🟥 |
 | [**k의 개수**](https://school.programmers.co.kr/learn/courses/30/lessons/120887) | 🟥 |
-| []() | 
-
-
+| [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | 🟥 |
+| [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | 🟥 |
+| [연속된 숫자의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | 🟥 |
+| [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | 🟥 |
 
