@@ -1,6 +1,9 @@
 # CT_Programmers
 프로그래머스 문제 풀이
 
+- [코딩테스트 입문](#코딩테스트-입문)
+- [코딩 기초 트레이닝](#코딩-기초-트레이닝)
+
 ### 코딩테스트 입문
 
 | 제목 | 1회 | 2회 | 3회 |
@@ -107,3 +110,20 @@
 | [연속된 숫자의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | 🟥 |
 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | 🟥 |
 
+<br>
+
+### 코딩 기초 트레이닝
+
+| 제목 | 1회 | 2회 | 3회 |
+| :-: | :-: | :-: | :-: |
+| 문제 | 🟥 | 🟧 | 🟨 |
+| [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | 🟥 |
+| [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | 🟥 |
+| [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | 🟥 |
+| [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | 🟥 |
+| [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | 🟥 |
+| [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | 🟥 |
+| [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | 🟥 |
+| [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | 🟥 |
+| [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | 🟥 |
+| [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | 🟥 |
