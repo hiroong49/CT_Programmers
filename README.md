@@ -127,3 +127,13 @@
 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | 🟥 |
 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | 🟥 |
 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | 🟥 |
+| [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | 🟥 |
+| [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | 🟥 |
+| [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | 🟥 |
+| [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | 🟥 |
+| [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | 🟥 |
+| [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | 🟥 |
+| [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | 🟥 |
+| [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | 🟥 |
+| [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | 🟥 |
+| [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | 🟥 |
