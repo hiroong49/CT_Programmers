@@ -137,3 +137,12 @@
 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | 🟥 |
 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | 🟥 |
 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | 🟥 |
+| [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | 🟥 |
+| [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | 🟥 |
+| [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | 🟥 |
+| [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | 🟥 |
+| [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | 🟥 |
+| [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | 🟥 |
+| [수 조작하기1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | 🟥 |
+| [수 조작하기2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | 🟥 |
+| []() | 
