@@ -145,4 +145,11 @@
 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | 🟥 |
 | [수 조작하기1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | 🟥 |
 | [수 조작하기2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | 🟥 |
+| [수열과 구간 쿼리3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | 🟥 |
+| [수열과 구간 쿼리2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | 🟥 |
+| [**수열과 구간 쿼리 4**](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | 🟥 |
+| [**배열 만들기 2**](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | 🟥 |
+| [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | 🟥 |
+| [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | 🟥 |
+| [**배열 만들기4**](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | 🟥 |
 | []() | 
