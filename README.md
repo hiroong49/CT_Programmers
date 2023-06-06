@@ -152,4 +152,9 @@
 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | 🟥 |
 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | 🟥 |
 | [**배열 만들기4**](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | 🟥 |
-| []() | 
+| [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | 🟥 |
+| [**주사위 게임3**](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | 🟥 |
+| [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | 🟥 |
+| [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | 🟥 |
+| [문자열 여러번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | 🟥 |
+| []() |
