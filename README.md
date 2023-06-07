@@ -157,4 +157,9 @@
 | [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | 🟥 |
 | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | 🟥 |
 | [문자열 여러번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | 🟥 |
-| []() |
+| [배열 만들기5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | 🟥 |
+| [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | 🟥 |
+| [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | 🟥 |
+| [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | 🟥 |
+| [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | 🟥 |
+| []() | 
