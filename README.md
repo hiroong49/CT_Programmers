@@ -167,4 +167,9 @@
 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905) | 🟥 |
 | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904) | 🟥 |
 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | 🟥 |
-| []() |
+| [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902?language=python3) | 🟥 |
+| [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | 🟥 |
+| [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | 🟥 |
+| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | 🟥 |
+| [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | 🟥 |
+| []() | 
