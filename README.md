@@ -172,4 +172,9 @@
 | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | 🟥 |
 | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | 🟥 |
 | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | 🟥 |
+| [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | 🟥 |
+| [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | 🟥 |
+| [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895) | 🟥 |
+| [**2의 영역**](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | 🟥 |
+| [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893) | 🟥 |
 | []() | 
