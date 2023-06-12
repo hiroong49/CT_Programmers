@@ -182,5 +182,10 @@
 | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | 🟥 |
 | [n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | 🟥 |
 | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | 🟥 |
-| []() | 🟥 |
+| [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | 🟥 |
+| [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | 🟥 |
+| [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | 🟥 |
+| [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | 🟥 |
+| [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | 🟥 |
+| []() |
 
