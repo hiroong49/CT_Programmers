@@ -187,5 +187,9 @@
 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | 🟥 |
 | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | 🟥 |
 | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | 🟥 |
-| []() |
-
+| [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | 🟥 |
+| [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | 🟥 |
+| [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | 🟥 |
+| [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | 🟥 |
+| [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | 🟥 |
+| []() | 🟥 |
