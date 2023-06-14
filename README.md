@@ -192,4 +192,9 @@
 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | 🟥 |
 | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | 🟥 |
 | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | 🟥 |
+| [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | 🟥 |
+| [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | 🟥 |
+| [배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | 🟥 |
+| [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | 🟥 |
+| [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | 🟥 |
 | []() | 🟥 |
