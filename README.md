@@ -197,4 +197,10 @@
 | [배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | 🟥 |
 | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | 🟥 |
 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | 🟥 |
+| [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | 🟥 |
+| [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | 🟥 |
+| [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | 🟥 |
+| [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | 🟥 |
+| [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | 🟥 |
 | []() | 🟥 |
+
