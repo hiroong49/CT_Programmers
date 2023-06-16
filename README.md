@@ -202,5 +202,11 @@
 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | 🟥 |
 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | 🟥 |
 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | 🟥 |
+| [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | 🟥 |
+| [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866#) | 🟥 |
+| [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | 🟥 |
+| [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | 🟥 |
+| [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | 🟥 |
 | []() | 🟥 |
+
 
