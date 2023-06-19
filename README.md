@@ -217,7 +217,13 @@
 | [**문자열 묶기**](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | 🟥 |
 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | 🟥 |
 | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | 🟥 |
+| [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | 🟥 |
+| [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | 🟥 |
+| [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | 🟥 |
+| [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | 🟥 |
+| [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848) | 🟥 |
 | []() | 🟥 |
+
 
 
 
