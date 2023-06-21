@@ -227,7 +227,13 @@
 | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | 🟥 |
 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | 🟥 |
 | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | 🟥 |
+| [부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | 🟥 |
+| [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | 🟥 |
+| [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | 🟥 |
+| [주사위 게임1](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | 🟥 |
+| [날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838) | 🟥 |
 | []() | 🟥 |
+
 
 
 
