@@ -232,6 +232,11 @@
 | [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | 🟥 |
 | [주사위 게임1](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | 🟥 |
 | [날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838) | 🟥 |
+| [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837) | 🟥 |
+| [**그림 확대**](https://school.programmers.co.kr/learn/courses/30/lessons/181836) | 🟥 |
+| [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | 🟥 |
+| [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | 🟥 |
+| [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | 🟥 |
 | []() | 🟥 |
 
 
