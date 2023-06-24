@@ -237,9 +237,9 @@
 | [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | 🟥 |
 | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | 🟥 |
 | [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | 🟥 |
-| []() | 🟥 |
-
-
-
+| [**정수를 나선형으로 배치하기**](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | 🟥 |
+| [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | 🟥 |
+| [**정사각형으로 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/181830#) | 🟥 |
+| [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829) | 🟥 |
 
 
