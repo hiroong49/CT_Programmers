@@ -1,22 +1,23 @@
 # CT_Programmers
 프로그래머스 문제 풀이
 
-- [코딩테스트 입문](#코딩테스트-입문)
-- [코딩 기초 트레이닝](#코딩-기초-트레이닝)
+- [CT\_Programmers](#ct_programmers)
+    - [코딩테스트 입문](#코딩테스트-입문)
+    - [코딩 기초 트레이닝](#코딩-기초-트레이닝)
 
 ### 코딩테스트 입문
 
 | 제목 | 1회 | 2회 | 3회 |
 | :-: | :-: | :-: | :-: |
 | 문제 | 🟥 | 🟧 | 🟨 |
-| [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | 🟥 |
-| [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | 🟥 |
-| [두 수의 곱]() | 🟥 |
-| [몫 구하기]() | 🟥 |
-| [두 수의 나눗셈]() | 🟥 |
-| [숫자 비교하기]() | 🟥 |
-| [분수 덧셈]() | 🟥 |
-| [배열 두 배 만들기]() | 🟥 | 
+| [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | 🟥 | 🟧 |
+| [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | 🟥 | 🟧 |
+| [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | 🟥 | 🟧 |
+| [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | 🟥 | 🟧 |
+| [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | 🟥 | 🟧 |
+| [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | 🟥 | 🟧 |
+| [분수 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | 🟥 |
+| [배열 두 배 만들기]() | 🟥 | 🟧 |
 | [나머지 구하기]() | 🟥 |
 | [중앙값 구하기]() | 🟥 |
 | [최빈값 구하기]() | 🟥 |
