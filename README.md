@@ -16,12 +16,12 @@
 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | 🟥 | 🟧 |
 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | 🟥 | 🟧 |
 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | 🟥 | 🟧 |
-| [분수 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | 🟥 |
-| [배열 두 배 만들기]() | 🟥 | 🟧 |
-| [나머지 구하기]() | 🟥 |
-| [중앙값 구하기]() | 🟥 |
-| [최빈값 구하기]() | 🟥 |
-| [짝수는 싫어요]() | 🟥 |
+| [**분수 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | 🟥 | 🟧 |
+| [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | 🟥 | 🟧 |
+| [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | 🟥 | 🟧 |
+| [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | 🟥 | 🟧 |
+| [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | 🟥 | 🟧 |
+| [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | 🟥 | 🟧 |
 | [피자 나눠 먹기(1)]() | 🟥 |
 | [피자 나눠 먹기(2)]() | 🟥 |
 | [피자 나눠 먹기(3)]() | 🟥 |
