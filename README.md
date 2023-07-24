@@ -22,10 +22,10 @@
 | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | 🟥 | 🟧 |
 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | 🟥 | 🟧 |
 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | 🟥 | 🟧 |
-| [피자 나눠 먹기(1)]() | 🟥 |
-| [피자 나눠 먹기(2)]() | 🟥 |
-| [피자 나눠 먹기(3)]() | 🟥 |
-| [배열의 평균값]() | 🟥 |
+| [피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | 🟥 | 🟧 |
+| [**피자 나눠 먹기(2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | 🟥 | 🟧 |
+| [피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | 🟥 | 🟧 |
+| [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | 🟥 | 🟧 |
 | [옷가게 할인 받기]() | 🟥 |
 | [아이스 아메리카노]() | 🟥 |
 | [나이 출력]() | 🟥 |
