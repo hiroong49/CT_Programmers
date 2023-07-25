@@ -26,14 +26,14 @@
 | [**피자 나눠 먹기(2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | 🟥 | 🟧 |
 | [피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | 🟥 | 🟧 |
 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | 🟥 | 🟧 |
-| [옷가게 할인 받기]() | 🟥 |
-| [아이스 아메리카노]() | 🟥 |
-| [나이 출력]() | 🟥 |
-| [배열 뒤집기]() | 🟥 |
-| [문자열 뒤집기]() | 🟥 |
-| [직각삼각형 출력하기]() | 🟥 | 
-| [짝수 홀수 개수]() | 🟥 |
-| [문자 반복 출력하기]() | 🟥 |
+| [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | 🟥 | 🟧 |
+| [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | 🟥 | 🟧 |
+| [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | 🟥 | 🟧 |
+| [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | 🟥 | 🟧 |
+| [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | 🟥 | 🟧 |
+| [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | 🟥 | 🟧 |
+| [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | 🟥 | 🟧 |
+| [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | 🟥 | 🟧 |
 | [특정 문자 제거하기]() | 🟥 |
 | [각도기]() | 🟥 |
 | [양꼬치]() | 🟥 |
