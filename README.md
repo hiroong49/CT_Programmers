@@ -34,10 +34,10 @@
 | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | 🟥 | 🟧 |
 | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | 🟥 | 🟧 |
 | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | 🟥 | 🟧 |
-| [특정 문자 제거하기]() | 🟥 |
-| [각도기]() | 🟥 |
-| [양꼬치]() | 🟥 |
-| [짝수의 합]() | 🟥 |
+| [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | 🟥 | 🟧 |
+| [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | 🟥 | 🟧 |
+| [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | 🟥 | 🟧 |
+| [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | 🟥 | 🟧 |
 | [배열 자르기]() | 🟥 |
 | [외계행성의 나이]() | 🟥 |
 | [진료순서 정하기]() | 🟥 |
