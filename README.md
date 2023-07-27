@@ -38,10 +38,10 @@
 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | 🟥 | 🟧 |
 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | 🟥 | 🟧 |
 | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | 🟥 | 🟧 |
-| [배열 자르기]() | 🟥 |
-| [외계행성의 나이]() | 🟥 |
-| [진료순서 정하기]() | 🟥 |
-| [순서쌍의 개수]() | 🟥 |
+| [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | 🟥 | 🟧 |
+| [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | 🟥 | 🟧 |
+| [**진료순서 정하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | 🟥 | 🟧 |
+| [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | 🟥 | 🟧 |
 | [개미 군단]() | 🟥 |
 | [모스부호 (1)]() | 🟥 |
 | [가위 바위 보]() | 🟥 |
