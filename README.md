@@ -42,10 +42,10 @@
 | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | 🟥 | 🟧 |
 | [**진료순서 정하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | 🟥 | 🟧 |
 | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | 🟥 | 🟧 |
-| [개미 군단]() | 🟥 |
-| [모스부호 (1)]() | 🟥 |
-| [가위 바위 보]() | 🟥 |
-| [구슬을 나누는 경우의 수]() | 🟥 |
+| [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | 🟥 | 🟧 |
+| [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | 🟥 | 🟧 |
+| [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | 🟥 | 🟧 |
+| [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | 🟥 | 🟧 |
 | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | 🟥 |
 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | 🟥 |
 | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | 🟥 |
